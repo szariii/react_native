@@ -7,3 +7,6 @@
 [submodule "react_native_camera"]
 	path = react_native_camera
 	url = https://github.com/szariii/react_native_camera.git
+[submodule "react_native_map"]
+	path = react_native_map
+	url = https://github.com/szariii/react_native_map.git
