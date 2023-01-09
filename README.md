@@ -44,4 +44,6 @@
   <li>Install expo app on phone</li>
   <li>Scan QRCode which should show in cmd</li>
  </ol>
-    
+   
+   
+ <h1>Others projects has own readme filse in them repositories</h1>
