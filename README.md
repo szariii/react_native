@@ -22,23 +22,25 @@
 </ul>
 
 <h1>How to start register application?</h1>
+<p>Warning! Phone and computer must be in the same local network</p>
+<p>Sometimes you need to disable firewall because it can block connection</p>
 <ol>
   <li>Make sure that you have installed git command line</li> 
   <li>Create empty folder</li>
   <li>Open new folder in cmd</li>
   <li>Write commands:
     <ol type="a" >
-      <li>git init</li>
-      <li>git pull https://github.com/szariii/react_native.git</li>
-      <li>cd .\register_panel\server\</li>
-      <li>npm start</li>
+      <li><code>git init</code></li>
+      <li><code>git pull https://github.com/szariii/react_native.git</code></li>
+      <li><code>cd .\register_panel\server\</code></li>
+      <li><code>npm start</code></li>
     </ol>
   </li>
       <li>Open folder in next cmd and write:
         <ol type="a" >
-          <li>cd .\register_panel\react_native_register\</li>
-          <li>npm install</li>
-          <li>npm start</li>
+          <li><code>cd .\register_panel\react_native_register\</code></li>
+          <li><code>npm install</code></li>
+          <li><code>npm start</code></li>
         </ol>
       </li>
   <li>Install expo app on phone</li>
