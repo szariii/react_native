@@ -1,0 +1,3 @@
+[submodule "react_native_alarms"]
+	path = react_native_alarms
+	url = https://github.com/szariii/react_native_alarms.git
