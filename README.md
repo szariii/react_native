@@ -46,4 +46,4 @@
  </ol>
    
    
- <h1>Others projects has own readme filse in them repositories</h1>
+ <h1>Others projects has own readme files in them repositories</h1>
