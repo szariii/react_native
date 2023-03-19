@@ -51,7 +51,7 @@
  <h1>Others projects has own readme files in them repositories</h1>
 
  <h2>Screenshots for register app</h2>
-<img src="./img/img1.jpg" alt="img1">
-<img src="./img/img2.jpg" alt="img2">
-<img src="./img/img3.jpg" alt="img3">
-<img src="./img/img4.jpg" alt="img4">
+<img src="./img/img1.jpg" alt="img1" width="30%" >
+<img src="./img/img2.jpg" alt="img2" width="30%">
+<img src="./img/img3.jpg" alt="img3" width="30%">
+<img src="./img/img4.jpg" alt="img4" width="30%">
